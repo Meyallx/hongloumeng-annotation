@@ -1,0 +1,184 @@
+[
+  {
+    "id": "cat_001",
+    "name": "服饰",
+    "subCategories": ["衣物", "鞋履", "首饰", "配饰", "布料"],
+    "color": "#E74C3C",
+    "icon": "👔",
+    "description": "各类服装、鞋帽、饰品",
+    "standardFields": [
+      {
+        "key": "color",
+        "label": "颜色",
+        "type": "string",
+        "required": false
+      },
+      {
+        "key": "material",
+        "label": "材质",
+        "type": "string",
+        "required": false
+      },
+      {
+        "key": "owner",
+        "label": "所属人物",
+        "type": "array",
+        "required": false
+      },
+      {
+        "key": "style",
+        "label": "款式",
+        "type": "string",
+        "required": false
+      },
+      {
+        "key": "pattern",
+        "label": "纹样",
+        "type": "string",
+        "required": false
+      }
+    ]
+  },
+  {
+    "id": "cat_002",
+    "name": "植物",
+    "subCategories": ["花卉", "树木", "草本", "果蔬"],
+    "color": "#27AE60",
+    "icon": "🌿",
+    "description": "各类植物花草",
+    "standardFields": [
+      {
+        "key": "species",
+        "label": "物种",
+        "type": "string",
+        "required": false
+      },
+      {
+        "key": "location",
+        "label": "生长位置",
+        "type": "string",
+        "required": false
+      },
+      {
+        "key": "season",
+        "label": "季节",
+        "type": "string",
+        "required": false
+      },
+      {
+        "key": "symbolism",
+        "label": "象征意义",
+        "type": "string",
+        "required": false
+      }
+    ]
+  },
+  {
+    "id": "cat_003",
+    "name": "食物",
+    "subCategories": ["菜肴", "点心", "饮品", "果蔬", "调料"],
+    "color": "#F39C12",
+    "icon": "🍜",
+    "description": "各类食物饮食",
+    "standardFields": [
+      {
+        "key": "ingredients",
+        "label": "食材成分",
+        "type": "array",
+        "required": false
+      },
+      {
+        "key": "taste",
+        "label": "口味",
+        "type": "string",
+        "required": false
+      },
+      {
+        "key": "cookingMethod",
+        "label": "烹饪方法",
+        "type": "string",
+        "required": false
+      },
+      {
+        "key": "occasion",
+        "label": "食用场合",
+        "type": "string",
+        "required": false
+      }
+    ]
+  },
+  {
+    "id": "cat_004",
+    "name": "丸药",
+    "subCategories": ["汤药", "丸剂", "散剂", "膏药"],
+    "color": "#8E44AD",
+    "icon": "💊",
+    "description": "各类药物",
+    "standardFields": [
+      {
+        "key": "ingredients",
+        "label": "药材成分",
+        "type": "array",
+        "required": false
+      },
+      {
+        "key": "efficacy",
+        "label": "功效",
+        "type": "string",
+        "required": false
+      },
+      {
+        "key": "patient",
+        "label": "服用者",
+        "type": "array",
+        "required": false
+      },
+      {
+        "key": "dosage",
+        "label": "用法用量",
+        "type": "string",
+        "required": false
+      },
+      {
+        "key": "prescription",
+        "label": "处方来源",
+        "type": "string",
+        "required": false
+      }
+    ]
+  },
+  {
+    "id": "cat_005",
+    "name": "宝物",
+    "subCategories": ["玉石", "金器", "古玩", "珍宝"],
+    "color": "#F1C40F",
+    "icon": "💎",
+    "description": "珍贵物品宝物",
+    "standardFields": [
+      {
+        "key": "material",
+        "label": "材质",
+        "type": "string",
+        "required": false
+      },
+      {
+        "key": "origin",
+        "label": "来源",
+        "type": "string",
+        "required": false
+      },
+      {
+        "key": "powers",
+        "label": "特殊能力",
+        "type": "array",
+        "required": false
+      },
+      {
+        "key": "inscription",
+        "label": "铭文",
+        "type": "object",
+        "required": false
+      }
+    ]
+  }
+]
