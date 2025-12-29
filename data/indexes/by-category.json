@@ -1,0 +1,52 @@
+{
+  "characters": {
+    "total": 3,
+    "items": ["char_001", "char_002", "char_003"],
+    "byFamily": {
+      "贾府": ["char_001", "char_003"],
+      "林家": ["char_002"]
+    },
+    "byGender": {
+      "男": ["char_001"],
+      "女": ["char_002", "char_003"]
+    },
+    "byImportance": {
+      "primary": ["char_001", "char_002"],
+      "major": ["char_003"]
+    }
+  },
+  "locations": {
+    "total": 2,
+    "items": ["loc_001", "loc_002"],
+    "byType": {
+      "园林": ["loc_001"],
+      "建筑": ["loc_002"]
+    }
+  },
+  "entities": {
+    "total": 5,
+    "items": ["entity_001", "entity_002", "entity_003", "entity_004", "entity_005"],
+    "byCategory": {
+      "服饰": ["entity_001", "entity_002"],
+      "丸药": ["entity_003"],
+      "宝物": ["entity_004"],
+      "植物": ["entity_005"]
+    }
+  },
+  "poetries": {
+    "total": 1,
+    "items": ["poetry_001"],
+    "byForm": {
+      "七言绝句": ["poetry_001"]
+    }
+  },
+  "timePoints": {
+    "total": 3,
+    "items": ["time_001", "time_002", "time_003"],
+    "byType": {
+      "birth": ["time_001"],
+      "arrival": ["time_002"],
+      "conflict": ["time_003"]
+    }
+  }
+}
