@@ -1,0 +1,48 @@
+[
+  {
+    "id": "version_001",
+    "name": "程甲本",
+    "fullName": "程伟元、高鹗整理本（程甲本）",
+    "dynasty": "清",
+    "year": "1791",
+    "chapters": 120,
+    "format": "pdf",
+    "hasOCR": false,
+    "hasAnnotation": true,
+    "isReference": true,
+    "files": {
+      "pdf": "/data/pdfs/version_001/chengjia.pdf",
+      "coverImage": "/data/pdfs/version_001/cover.jpg",
+      "totalPages": 856,
+      "pageMapping": {
+        "15": {
+          "chapter": 1,
+          "title": "甄士隐梦幻识通灵 贾雨村风尘怀闺秀"
+        },
+        "28": {
+          "chapter": 3,
+          "title": "贾雨村夤缘复旧职 林黛玉抛父进京都"
+        }
+      }
+    },
+    "status": "annotating",
+    "progress": 0.35
+  },
+  {
+    "id": "version_002",
+    "name": "脂砚斋批评本",
+    "fullName": "脂砚斋重评石头记",
+    "dynasty": "清",
+    "year": "约1754",
+    "chapters": 80,
+    "format": "pdf",
+    "hasOCR": false,
+    "hasAnnotation": false,
+    "hasCritique": true,
+    "files": {
+      "pdf": "/data/pdfs/version_002/zhiyan.pdf",
+      "totalPages": 634
+    },
+    "status": "reference"
+  }
+]
