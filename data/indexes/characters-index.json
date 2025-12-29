@@ -1,0 +1,30 @@
+{
+  "total": 3,
+  "lastUpdated": "2024-01-20T10:00:00Z",
+  "characters": [
+    {
+      "id": "char_001",
+      "name": "贾宝玉",
+      "aliases": ["宝玉", "怡红公子"],
+      "family": "贾府",
+      "gender": "男",
+      "importance": "primary"
+    },
+    {
+      "id": "char_002",
+      "name": "林黛玉",
+      "aliases": ["黛玉", "林妹妹"],
+      "family": "林家",
+      "gender": "女",
+      "importance": "primary"
+    },
+    {
+      "id": "char_003",
+      "name": "王熙凤",
+      "aliases": ["凤姐", "琏二奶奶"],
+      "family": "贾府",
+      "gender": "女",
+      "importance": "major"
+    }
+  ]
+}
