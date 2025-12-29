@@ -1,0 +1,46 @@
+{
+  "total": 5,
+  "lastUpdated": "2024-01-20T10:00:00Z",
+  "byCategory": {
+    "服饰": {
+      "count": 2,
+      "items": [
+        {
+          "id": "entity_001",
+          "name": "大红宫缎袄子"
+        },
+        {
+          "id": "entity_002",
+          "name": "大红洒花袄"
+        }
+      ]
+    },
+    "丸药": {
+      "count": 1,
+      "items": [
+        {
+          "id": "entity_003",
+          "name": "人参养荣丸"
+        }
+      ]
+    },
+    "宝物": {
+      "count": 1,
+      "items": [
+        {
+          "id": "entity_004",
+          "name": "通灵宝玉"
+        }
+      ]
+    },
+    "植物": {
+      "count": 1,
+      "items": [
+        {
+          "id": "entity_005",
+          "name": "芭蕉"
+        }
+      ]
+    }
+  }
+}
