@@ -1,0 +1,20 @@
+{
+  "v001_ch001": {
+    "chapterNumber": 1,
+    "title": "甄士隐梦幻识通灵 贾雨村风尘怀闺秀",
+    "characters": ["char_001", "char_zhengyinglian"],
+    "locations": ["loc_rongguofu"],
+    "entities": ["entity_004"],
+    "poetries": ["poetry_001"],
+    "timePoints": ["time_001"]
+  },
+  "v001_ch003": {
+    "chapterNumber": 3,
+    "title": "贾雨村夤缘复旧职 林黛玉抛父进京都",
+    "characters": ["char_001", "char_002", "char_003"],
+    "locations": ["loc_rongguofu"],
+    "entities": ["entity_001", "entity_002", "entity_004"],
+    "poetries": [],
+    "timePoints": ["time_002", "time_003"]
+  }
+}
