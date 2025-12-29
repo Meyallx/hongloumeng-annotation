@@ -1,0 +1,26 @@
+{
+  "total": 2,
+  "lastUpdated": "2024-01-20T10:00:00Z",
+  "locations": [
+    {
+      "id": "loc_001",
+      "name": "大观园",
+      "type": "园林",
+      "level": 1,
+      "parentId": null
+    },
+    {
+      "id": "loc_002",
+      "name": "潇湘馆",
+      "type": "建筑",
+      "level": 3,
+      "parentId": "loc_001"
+    }
+  ],
+  "hierarchy": {
+    "loc_001": {
+      "name": "大观园",
+      "children": ["loc_002", "loc_yihongyuan", "loc_hengwuyuan"]
+    }
+  }
+}
