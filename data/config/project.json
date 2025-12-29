@@ -1,0 +1,22 @@
+{
+  "name": "红楼梦多版本标注系统",
+  "version": "1.0.0",
+  "primaryAnnotationVersion": "version_001",
+  "createdAt": "2024-01-20",
+  "lastUpdated": "2024-01-20",
+  "description": "对《红楼梦》多个版本进行实体标注，包括人物、地点、物品、诗词等，构建结构化知识库",
+  "contributors": [
+    {
+      "name": "项目发起人",
+      "role": "maintainer",
+      "contact": ""
+    }
+  ],
+  "statistics": {
+    "totalCharacters": 3,
+    "totalLocations": 2,
+    "totalEntities": 5,
+    "totalPoetries": 1,
+    "totalTimePoints": 3
+  }
+}
